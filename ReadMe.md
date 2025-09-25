@@ -1,6 +1,5 @@
-&lt;div align="center"&gt;
-&lt;h1&gt;Supermarket Manage Server&lt;/h1&gt;
-&lt;p&gt;基于 Spring Boot + MyBatis-Plus 的超市后台管理系统 API 服务&lt;/p&gt;
+# Supermarket Manage Server
+基于 Spring Boot + MyBatis-Plus 的超市后台管理系统 API 服务
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0.x-6DB33F?logo=springboot)](https://spring.io/projects/spring-boot)
 [![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3.5.x-FF5722?logo=MyBatis)](https://baomidou.com/)
