@@ -22,5 +22,9 @@ supermarket-manage-server 是“超市进销存+权限管理”一体化后台�
 ## 📦 快速开始
 ### 1. 克隆代码
 ```bash
+
 git clone https://github.com/HuangYuan1024/supermarket-manage-server.git
 cd supermarket-manage-server
+```
+
+---
