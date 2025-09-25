@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/supermarket?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: root
+server:
+  port: 8082
+  tomcat:
+    uri-encoding: UTF-8
+  servlet:
+    encoding:
+      charset: UTF-8
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+custom:
+  upload:
+    path: D:\\ProgrammingLearning\\JAVA-GZ2524\\project\\phase1\\supermarket-manage-server\\uploads\\
