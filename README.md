@@ -3,7 +3,6 @@
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0.x-6DB33F?logo=springboot)](https://spring.io/projects/spring-boot)
 [![MyBatis-Plus](https://img.shields.io/badge/MyBatis--Plus-3.5.x-FF5722?logo=MyBatis)](https://baomidou.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![JDK](https://img.shields.io/badge/JDK-17+-green.svg)](https://openjdk.org/)
 
 ---
