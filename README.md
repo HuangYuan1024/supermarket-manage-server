@@ -15,7 +15,7 @@ supermarket-manage-server 是“超市进销存+权限管理”一体化后台�
 - 数据层：MyBatis-Plus + MySQL 9.1
 - 文档：SpringDoc
 - 工具：Lombok
-- 部署：Docker + Maven 多环境配置（dev/test/prod）
+- 部署：Docker + Maven 多环境配置（dev/test/prod）（暂未实现）
 
 ---
 
